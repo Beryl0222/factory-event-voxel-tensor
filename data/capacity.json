@@ -1,0 +1,12 @@
+{
+  "shape_y_x": [
+    240,
+    432
+  ],
+  "events": 2100000,
+  "sensors": 4,
+  "window_size": 9,
+  "max_active_windows": 4,
+  "peak_scratch_bytes": 6291456,
+  "seed": 687
+}
